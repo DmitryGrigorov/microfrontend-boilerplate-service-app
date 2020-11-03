@@ -1,0 +1,3 @@
+export const events = {
+  GET_UPDATED_EXAMPLE_DATA: 'GET_UPDATED_EXAMPLE_DATA',
+};

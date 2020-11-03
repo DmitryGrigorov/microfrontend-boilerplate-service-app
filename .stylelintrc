@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "@holism/dotfiles/stylelint.config.js"
+  ],
+  "rules": {
+    "no-descending-specificity": null
+  }
+}
